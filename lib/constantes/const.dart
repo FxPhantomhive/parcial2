@@ -22,6 +22,13 @@ const List Tienda = [
         "descripcion":
             "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at nunc dignissim, pharetra leo eget, tincidunt felis. Praesent euismod ligula eget feugiat mollis. Maecenas pharetra egestas tristique.",
         "imagen": "assets/images/s3.png"
+      },
+      {
+        "nombre": "Silla Guanaca N",
+        "precio": "\$ 24.99",
+        "descripcion":
+            "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at nunc dignissim, pharetra leo eget, tincidunt felis. Praesent euismod ligula eget feugiat mollis. Maecenas pharetra egestas tristique.",
+        "imagen": "assets/images/s4.png"
       }
     ]
   },
