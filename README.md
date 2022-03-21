@@ -1,8 +1,8 @@
 # parcial2
 
-Proyecto aplicacion comercial - Parcial2
-Felix Ivan Melendez
-25-5295-2017
+Proyecto aplicacion comercial - Parcial 2<br>
+Felix Ivan Melendez<br>
+25-5295-2017<br>
 
 ## Getting Started
 
