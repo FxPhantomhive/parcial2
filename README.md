@@ -1,6 +1,8 @@
 # parcial2
 
-A new Flutter project.
+Proyecto aplicacion comercial - Parcial2
+Felix Ivan Melendez
+25-5295-2017
 
 ## Getting Started
 
